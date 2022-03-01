@@ -1,0 +1,694 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catalogue of books printed for Thomas Basset, and are to be sold at his shop at the George near Cliffords Inne in Fleet-Street.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01518</idno>
+            <idno type="STC">Wing B1042A</idno>
+            <idno type="STC">ESTC R172284</idno>
+            <idno type="EEBO-CITATION">51784365</idno>
+            <idno type="OCLC">ocm 51784365</idno>
+            <idno type="VID">174791</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01518)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174791)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2698:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catalogue of books printed for Thomas Basset, and are to be sold at his shop at the George near Cliffords Inne in Fleet-Street.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. Battersby for Thomas Bassett ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bassett, Thomas, --  bookseller.</term>
+               <term>Advertising --  Books --  17th century.</term>
+               <term>Books --  Catalogues --  17th century.</term>
+               <term>Broadsides --  England --  London --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:174791:1" rendition="simple:additions"/>
+            <head>A Catalogue Of Books printed for <hi>Thomas Baſſet,</hi> and are to be ſold at his Shop at the <hi>George</hi> near <hi>Cliffords Inne</hi> in <hi>Fleet-ſtreet.</hi>
+            </head>
+            <div type="part">
+               <list>
+                  <head>Various Hiſtories and Miſcellaneous Diſcourſes, &amp;c.</head>
+                  <item>1. <hi>COſmography</hi> in four Books, containing the <hi>Chorography</hi> and <hi>Hiſtory</hi> of the World, and all the principal King<g ref="char:EOLhyphen"/>doms, Provinces, Seas, and Iſles there<g ref="char:EOLhyphen"/>of. The 5th. Edition corrected and enlarged. By <hi>P. Heylin.</hi> In Folio, price 20 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>2. The Voyages and Travels of the Embaſſa<g ref="char:EOLhyphen"/>dours ſent by <hi>Frederick</hi> Duke of <hi>Holſtein</hi> to the Great Duke of <hi>Muſcovy</hi> and the King of <hi>Perſia,</hi> be<g ref="char:EOLhyphen"/>gun in the Year 1633, and finiſhed 1639: con<g ref="char:EOLhyphen"/>taining a Complete Hiſtory of <hi>Muſcovy, Tartary, Per<g ref="char:EOLhyphen"/>ſia,</hi> and other adjacent Countries. Alſo the Travels of <hi>Mandelſlo</hi> from <hi>Perſia</hi> into the <hi>Eaſt Indies,</hi> con<g ref="char:EOLhyphen"/>taining a Deſcription of <hi>Indoſthan</hi> the <hi>Mogul</hi>'s Em<g ref="char:EOLhyphen"/>pire, the Oriental Iſlands <hi>Japan, China, &amp;c.</hi> In three Books. The whole illuſtrated with Maps and Figures. Written originally by <hi>Adam Olearius,</hi> Secretary to the Embaſſie. Engliſhed by <hi>J. D.</hi> The ſecond Edition. In Folio, price 18 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>3. An Hiſtorical Account of the <hi>Romiſh</hi> State, Court, Intereſt, Policies, &amp;c. and the mighty Influ<g ref="char:EOLhyphen"/>ences of the Jeſuits in that Church, and many other Chriſtian States, not hitherto extant. Written ori<g ref="char:EOLhyphen"/>ginally by <hi>Monſieur de Sainet Amour,</hi> Doctor of <hi>Sor<g ref="char:EOLhyphen"/>bonne.</hi> Engliſhed by <hi>J. D.</hi> In Folio, price 14 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>4. The Hiſtory of Philoſophy, by <hi>Tho. Stanley,</hi> 
+                     <abbr>Eſq</abbr> In Folio, price 3 <abbr>
+                        <hi>l.</hi>
+                     </abbr>
+                  </item>
+                  <item>5. The Hiſtory of the <hi>Caribby</hi> Iſlands, <hi>viz. Barba<g ref="char:EOLhyphen"/>does, Saint Chriſtophers, Saint Vincents, Martinico, Dominico, Barbouthos, Monferrat, Mevis, Antego, &amp;c.</hi> in all 28: containing the Natural and Moral Hiſtory of thoſe Iſlands. Illuſtrated with Sculptures repre<g ref="char:EOLhyphen"/>ſenting the moſt conſiderable Rarities therein de<g ref="char:EOLhyphen"/>ſcribed. Rendered into Engliſh by <hi>J. D.</hi> of <hi>Kid<g ref="char:EOLhyphen"/>welly.</hi> In Folio, price 10 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>6. <hi>Bentivolio</hi> and <hi>Vrania</hi> in ſix Books, by <hi>Nath. Ingelo,</hi> D.D. In Folio, price 12 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>7. Advertiſements from <hi>Parnaſſus;</hi> with the Po<g ref="char:EOLhyphen"/>litick Touchſtone. Written originally in <hi>Italian</hi> by that famous Roman <hi>Trojano Boccalim.</hi> Engliſhed by the Right Honourable <hi>Henry</hi> Earl of <hi>Monmouth.</hi> In Folio, price 10 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>8. <hi>Londinopolis:</hi> An Hiſtorical Diſcourſe or Per<g ref="char:EOLhyphen"/>luſtration of the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> with the Courts of Juſtice, Antiquities, and New Buildings thereunto belonging. By <hi>James Howell.</hi> In Folio, price 5 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>9. The Complete Body of the Art Military: Be<g ref="char:EOLhyphen"/>ing plain and perfect Directions for the right order<g ref="char:EOLhyphen"/>ing and framing of an Army both of Horſe and Foot: together with the manner of Fortifications, and the Art of Gunnery. By <hi>Richard Elton,</hi> Lieutenant Co<g ref="char:EOLhyphen"/>lonel. In Folio, price 8 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>10. The Hiſtory of the late Wars in <hi>Denmark,</hi> compriſing all the Tranſactions (both Military and Civil) during the differences betwixt the two Nor<g ref="char:EOLhyphen"/>thern Crowns, in the Years 1657, 1658, 1659, 1660. Illuſtrated with ſeveral Maps. By <hi>R. Manley.</hi> In Folio, Price 6 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>11. A General Collection of Diſcourſes of the <hi>Virtuoſi</hi> of <hi>France,</hi> upon Queſtions of all ſorts of Philoſophy. In Folio, price 30 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>12. <hi>Eccleſia Reſtaurata:</hi> or the Hiſtory of the Re<g ref="char:EOLhyphen"/>formation of the Church of <hi>England,</hi> containing the beginning, progreſs, and ſucceſs of it; from the firſt preparations to it by King <hi>Henry</hi> VIII. untill the Le<g ref="char:EOLhyphen"/>gal ſettling of it under Queen <hi>Elizabeth.</hi> By <hi>Peter Heylin,</hi> D.D. The ſecond Edition in Folio, price 10 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>13. <hi>Aerius Redivivus:</hi> or the Hiſtory of the Presbyterians, containing the beginnings, progreſs, and ſucceſſes of that Active Sect, &amp;c. By <hi>Peter Heylin,</hi> D.D. In Folio, price 12 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>14. The Hiſtory of <hi>England</hi> extending to the Conqueſt of ſo much of <hi>Britain</hi> as was ſubjected by the <hi>Romans.</hi> Written in the Year 1666, in Folio, pricee 3 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 6 <abbr>
+                        <hi>d.</hi>
+                     </abbr>
+                  </item>
+                  <item>15. The Uſe of the Pen and Pencil, or the Art of Painting. By <hi>William Sanderſon,</hi> 
+                     <abbr>Eſq</abbr> in Folio, price 2 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 6 <abbr>
+                        <hi>d.</hi>
+                     </abbr>
+                  </item>
+                  <item>16. <hi>Cyprianus Anglicus:</hi> or the Hiſtory of the Life and Death of <hi>William Land</hi> Lord Archbiſhop of <hi>Canterbury;</hi> containing alſo the Eccleſiaſtical Hiſto<g ref="char:EOLhyphen"/>ry of the three Kingdoms of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> from the firſt riſing till his death. By <hi>Peter Heylin,</hi> D.D. The ſecond Edition in Folio, price 10 <abbr>
+                        <hi>s.</hi>
+                     </abbr> printed 1671.</item>
+                  <item>17. The Hiſtory of <hi>Romiſh</hi> Treaſons and Uſurpa<g ref="char:EOLhyphen"/>tions: together with a particular account of many groſs Corruptions and Impoſtures in the Church of <hi>Rome,</hi> highly diſhonourable and injurious to Chri<g ref="char:EOLhyphen"/>ſtian Religion: with a large Preface to the <hi>Roman<g ref="char:EOLhyphen"/>iſts.</hi> By <hi>H. Foulis,</hi> B.D. in Folio, price 20 <abbr>
+                        <hi>s.</hi>
+                     </abbr> print<g ref="char:EOLhyphen"/>ed 1671.</item>
+                  <item>18. The Merchants Map of Commerce, wherein the Univerſal manner and matter of Trade is com<g ref="char:EOLhyphen"/>pendiouſly handled. By <hi>Lewis Roberts,</hi> Merchant. The ſecond Edition in Folio, price 16 <abbr>
+                        <hi>s.</hi>
+                     </abbr> printed 1671.</item>
+                  <item>19. <hi>Reſuſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>itatio:</hi> or bringing into publick light ſeveral pieces of the Works Civil, Hiſtorical, Philo<g ref="char:EOLhyphen"/>ſophical, and Theological, (hitherto ſleeping) of the Right Honourable <hi>Francis Bacon,</hi> Baron of <hi>Verulam,</hi> Viſcount <hi>Saint Alban.</hi> In two parts. The third Edition, according to the beſt corrected Copies, to<g ref="char:EOLhyphen"/>gether with His Lordſhips Life. By <hi>W. Rawley,</hi> D.D. His Lordſhips Chaplain. In Folio, price 14 <abbr>
+                        <hi>s.</hi>
+                     </abbr> print<g ref="char:EOLhyphen"/>ed 1671.</item>
+                  <item>20. <hi>Fodinae Regales:</hi> or the Hiſtory, Laws, and Places of the chief Mines and Mineral Works in <hi>England, Wales,</hi> and the <hi>Engliſh Pale</hi> in <hi>Ireland.</hi> As alſo of the Mint and Money. By Sir <hi>John Pettus,</hi> Knight. In Folio, price 5 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>21. The Art how to know Men. Originally writ<g ref="char:EOLhyphen"/>ten by the <hi>Si<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ur de la Chambre,</hi> Counſellour to His Majeſty of <hi>France,</hi> and Phyſician in ordinary. Eng<g ref="char:EOLhyphen"/>liſhed by <hi>J. D.</hi> In Octavo, price 3 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>22. Various Hiſtories written orginally by <hi>Clau<g ref="char:EOLhyphen"/>dius AElianus,</hi> rendered into Engliſh by <hi>Tho. Stanley.</hi> In Octavo, price 2 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 6 <abbr>
+                        <hi>d.</hi>
+                     </abbr>
+                  </item>
+                  <item>23. <hi>Scarrons Novels,</hi> viz. The Fruitleſs Precauti<g ref="char:EOLhyphen"/>on, the Hypocrites, the Innocent Adultery, the Judge in his own Cauſe, the Rival Brothers, the in<g ref="char:EOLhyphen"/>viſible Miſtreſs, the Chaſtiſement of Avarice. Ren<g ref="char:EOLhyphen"/>dered into Engliſh with ſome Additions by <hi>J. Da<g ref="char:EOLhyphen"/>vies.</hi> In Octavo, price 3 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>24. <hi>Hippocrates</hi> Aphoriſms reviewed and render<g ref="char:EOLhyphen"/>ed into Engliſh, and digeſted into an exact and methodical form. In Octavo, price 1 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>25. <hi>Arnaldo,</hi> or the Injured Lovers. A new Ro<g ref="char:EOLhyphen"/>mance. In Octavo, price 1 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 6 <abbr>
+                        <hi>d.</hi>
+                     </abbr>
+                  </item>
+                  <item>26. Poems on ſeveral ſubjects. By <hi>Edward</hi> Lord <hi>Herbert,</hi> Baron of <hi>Cherbery.</hi> In Octavo, price 1 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <pb facs="tcp:174791:2"/>
+                  <item>27. A further Diſcovery of the Myſtery of Jeſui<g ref="char:EOLhyphen"/>tiſm, repreſenting the Humours, Deſigns, and Pra<g ref="char:EOLhyphen"/>ctiſes of thoſe who call themſelves <hi>The Society of Je<g ref="char:EOLhyphen"/>ſus.</hi> In Twelves, price 2 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 6 <abbr>
+                        <hi>d.</hi>
+                     </abbr>
+                  </item>
+                  <item>28. Modern Policies taken from <hi>Machiavel, Bor<g ref="char:EOLhyphen"/>gia,</hi> and other choice Authors: to which is added <hi>Regi Sacrum.</hi> By Sir <hi>William Blois,</hi> Knight. In Octa<g ref="char:EOLhyphen"/>vo, price 1 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 6 <abbr>
+                        <hi>d.</hi>
+                     </abbr>
+                  </item>
+                  <item>29. <hi>Lux Lillio,</hi> or Obſervations upon theſe two parts of Grammar, <hi>Orthographie</hi> and <hi>Etymologie.</hi> By <hi>Tho. Seriven,</hi> M.A. In Octavo, price 1 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>30. <hi>Epietetus Junior:</hi> or Maxims of Modern Mo<g ref="char:EOLhyphen"/>rality, in two Centuries. Collected by <hi>J. Davies</hi> of <hi>Kidwelly.</hi> In Twelves, price 1 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>31. The Complete Writing-maſter: A Copy-book furniſhed with all the moſt uſeful Hands now practiſed by the beſt Artiſts in <hi>London,</hi> with ſuch plain directions for young Learners, that they may in a ſhort time fit themſelves for any Trade or Imploy<g ref="char:EOLhyphen"/>ment whatſoever. Invented, written, and engra<g ref="char:EOLhyphen"/>ven, by <hi>E. Co<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ker.</hi> In Quarto, price 1 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>32. A Perſuaſive to Conformity, by way of a Let<g ref="char:EOLhyphen"/>ter to the Diſſenting Brethren, by <hi>Jo. Hinckley,</hi> M.A. In Octavo, price 1 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 6 <abbr>
+                        <hi>d.</hi>
+                     </abbr>
+                  </item>
+                  <item>33. The Ceremonies of the Vacant See, or a true Relation of what paſſes at <hi>Rome</hi> upon the Popes death, with the Proceedings in the Conclave for the Election of a new Pope, according to the Conſtitu<g ref="char:EOLhyphen"/>tions and Ceremonials; as alſo the Convocation and Cavalcade Out of the French by <hi>J. Davies.</hi> In Octa<g ref="char:EOLhyphen"/>vo, price 1 <abbr>
+                        <hi>s.</hi>
+                     </abbr> printed 1571.</item>
+                  <item>34. The Life of General <hi>M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rk,</hi> Duke of <hi>Albe<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>,</hi> 
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> with Remarks upon his Actions. By <hi>T. G<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>,</hi> D. D. one of his Chaplains. In Octavo, price 4 <abbr>
+                        <hi>s.</hi>
+                     </abbr> printed 1671.</item>
+                  <item>35. A Help to Engliſh Hiſtory, containing a ſuc<g ref="char:EOLhyphen"/>ceſſion of all the Kings of <hi>England,</hi> the Engliſh <hi>Sa<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>,</hi> and the <hi>Brita<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s;</hi> the Kings and Princes of <hi>Wales,</hi> the Kings and Lords of <hi>Man,</hi> the Iſle of <hi>Wight;</hi> as alſo of all the Dukes, Marqueſſes, Earls, and Biſhops thereof; with the Deſcription of the places from whence they had their Titles: together with the Names and Ranks of the Viſcounts, Barons, and Baronets of <hi>England.</hi> By <hi>P. Heylin,</hi> D. D. and ſince his death continued to this preſent year 1671, with the Coats of Arms of the Nobility Blazon'd. In Twelves, price 4 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>36. A Geographical Deſcription of the four parts of the World, taken from the Notes and Works of the famous <hi>Monſieur Sanſon,</hi> Geographer to the French King and other eminent Travellers and Au<g ref="char:EOLhyphen"/>thors. To which are added the Commodities, Coins, Weights, and Meaſures of the chief places of Traf<g ref="char:EOLhyphen"/>fick in the World; compared with thoſe of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> (or <hi>London</hi>) as to the Trade thereof. Alſo a Treatiſe of Travel and another of Traffick. The whole illuſtrated with variety of uſeful and delight<g ref="char:EOLhyphen"/>ful Maps and Figures. By <hi>Rich. Blome.</hi> In Folio, price 20 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>37. Titles of Honour. By <hi>J. Selden,</hi> 
+                     <abbr>Eſq</abbr> In Fo<g ref="char:EOLhyphen"/>lio, price 20 <abbr>
+                        <hi>s.</hi>
+                     </abbr> printed 1672.</item>
+                  <item>38. The Egyptian Hiſtory, treating of the Pyra<g ref="char:EOLhyphen"/>mids, the Inundation of the <hi>Nile,</hi> and other Prodi<g ref="char:EOLhyphen"/>gies of <hi>Egypt,</hi> according to the Opinions and Tradi<g ref="char:EOLhyphen"/>tions of the <hi>Arabians.</hi> Written originally in the <hi>Arabian</hi> Tongue by <hi>Murtadi</hi> the Son of <hi>Gaphiphus.</hi> Rendered into French by <hi>Monſieur Vattier,</hi> Arabick P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ofeſſor to the King of <hi>France:</hi> and thence faith<g ref="char:EOLhyphen"/>fully done into Engliſh by <hi>J D.</hi> of <hi>Kidwelly.</hi> In Octavo, price 2 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 6. <abbr>
+                        <hi>d.</hi>
+                     </abbr> printed 1672.</item>
+               </list>
+               <list>
+                  <head>PLAYS.</head>
+                  <item>39. THe Engliſh Princeſs: or the Death of <hi>Ri<g ref="char:EOLhyphen"/>chard</hi> III. A Tragdy written in the year 1666, and Acted at the Duke of <hi>York</hi>'s Theatre. In Quarto, price 1 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 6 <abbr>
+                        <hi>d.</hi>
+                     </abbr>
+                  </item>
+                  <item>40. The <hi>Roman</hi> Generals, or the Diſtreſſed La<g ref="char:EOLhyphen"/>dies. By <hi>J.D.</hi> of <hi>Grays Inne,</hi> Gent. In Quarto, price 1 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>41. The Slighted Maid. A Comedy Acted at the Duke of <hi>York</hi>'s Theatre. In Quarto, price 1 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>42. The Marriage Night. Written by the Lord Viſcount <hi>Faulkland.</hi> In Quarto, price 1 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>43. The Spaniſh Gipſie, as it was Acted at the Private Houſe in <hi>Drury Lane</hi> and <hi>Salisbury Court.</hi> Written by <hi>T. Middleton</hi> and <hi>W. Rowley,</hi> Gent. In Quarto, price 1 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <list>
+                  <head>DIVINITY.</head>
+                  <item>44. THirty ſix Sermons:
+<list>
+                        <item>
+                           <hi>XVII. Ad Aulam,</hi>
+                        </item>
+                        <item>
+                           <hi>V. Ad Clerum,</hi>
+                        </item>
+                        <item>
+                           <hi>VI. Ad Magiſtratum,</hi>
+                        </item>
+                        <item>
+                           <hi>VIII. Ad Populum.</hi>
+                        </item>
+                     </list> By the Right Reverend Father in God <hi>Robert San<g ref="char:EOLhyphen"/>derſon</hi> late Lord Biſhop of <hi>Lincoln.</hi> The fifth Editi<g ref="char:EOLhyphen"/>on, corrected and amended. In Folio, price 18 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>45. <hi>S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>intilia Altaris:</hi> Primitive Devotion in the Faſts and Feaſts of the Church of <hi>England.</hi> By <hi>Ed<g ref="char:EOLhyphen"/>ward Sparke,</hi> D.D. The fourth Edition, conſiſting of Proſe, Poems, Prayers, and Sculptures on the ſe<g ref="char:EOLhyphen"/>veral occaſions. In Octavo, price 7 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>46. The Worthy Communicant: or a Diſcourſe of the Nature, Effects, and Bleſſings conſequent to the Worthy receiving of the Lords Supper; with Devotions fitted to every part of that Miniſtration. By <hi>Jeremy Taylor,</hi> late Lord Biſhop of <hi>Down</hi> and <hi>Connor.</hi> In Octavo, price 4 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>47. The Holy Court. In five Tomes. Written in French by <hi>N. Cauſſin.</hi> Tranſlated into Engliſh by Sir <hi>T. H.</hi> and others. In Folio, price 30 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>48. A Summary of Devotions, compiled and uſed by <hi>William Laud,</hi> ſometime Lord Archbiſhop of <hi>Can<g ref="char:EOLhyphen"/>terbury.</hi> In Twelves, price 1 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>49. The Chief Intereſt of Man: or a Diſcourſe of Religion, clearly demonſtrating the Equity of the Precepts of the Goſpel, and how much a due obſer<g ref="char:EOLhyphen"/>vance thereof doth conduce to the happineſs aad well-being as well of Humane Societies as of particu<g ref="char:EOLhyphen"/>lar perſons. By <hi>H Lakin.</hi> In Twelves, price <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>50. Corporal Worſhip diſcuſs'd and defended in a Viſitation Sermon, <hi>April</hi> 21. 1670. in <hi>Saint Saviorus Southwark.</hi> Publiſhed to prevent further calumny. By <hi>W. Baſſett.</hi> In Quarto, price 6 <abbr>
+                        <hi>d.</hi>
+                     </abbr>
+                  </item>
+                  <item>51. <hi>Sculptures,</hi> the exacteſt exſtant, deſigned and ſuited to every Feaſt and Faſt throughout the Year in the Book of Common Prayer. By <hi>Edw. Sparke,</hi> D. D. In Octavo, Twelves, and Twenty four.</item>
+               </list>
+            </div>
+            <div type="part">
+               <list>
+                  <head>LAW.</head>
+                  <item>52. AN Abridgment of the Common Law, Al<g ref="char:EOLhyphen"/>phabetically digeſted. By <hi>Hen. Rolle,</hi> Ser<g ref="char:EOLhyphen"/>jeant at Law. Publiſhed by the Lord Chief Juſtice <hi>Hali,</hi> and approved of by all the Judges. In Folio, price 40 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>53. The Reports of Sir <hi>George Croke,</hi> Knight, of ſuch ſelect Caſes as were adjudged in the times of Queen <hi>Elizabeth,</hi> King <hi>James,</hi> and King <hi>Charles</hi> I. Collected and written in French by himſelf, reviſed and publiſhed in Engliſh by Sir <hi>Harbottle Gramſton,</hi> Baronet, Maſter of the Rolls. The ſecond Edition, carefully corrected by the Original. In three Parts. In Folio, price 45 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>54. All the four Parts of the Inſtitutes of the Laws of <hi>England.</hi> I.A Commentary on <hi>Littleton.</hi> II. An Expoſition on <hi>Magna Charta,</hi> and other Statutes. III. Concerning High Treaſon, and other Pleas of the Crown. IV. Concerning the Juriſdiction of Courts. All with neceſſary Tables not heretofore printed. In Folio, price 45 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <pb facs="tcp:174791:2"/>
+                  <item>55. Brief Animadverſions on, Amendments of, and Additional Explanatory Records to the Fourth Part of the Inſtitutes of the Laws of <hi>England,</hi> con<g ref="char:EOLhyphen"/>cerning the Juriſdiction of Courts. By <hi>W. Pryn</hi> 
+                     <abbr>Eſq</abbr> In Folio, price 12 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>56. The Reports of the Learned <hi>Edmund Ander<g ref="char:EOLhyphen"/>ſon</hi> Knight, late Chief Juſtice of the Common Bench, of many prncipal Caſes argued and adjudged in the time of the late Queen <hi>Elizabeth.</hi> In two Parts In Folio, price 14. <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>57. Reports and Caſes taken in the third, fourth, fifth, ſixth, and ſeventh Years of the late King <hi>Charles,</hi> as they were argued at the Common Pleas Bar. By Sir <hi>Tho. H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tley,</hi> Knight, Serjeant at Law, and appointed by the King and Judges for one of the Reporters of the Law. In Folio, price 5 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>58. The Reports of Sir <hi>John Bridgman,</hi> Knight, ſometime Chief Juſtice of <hi>Ch<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r,</hi> in the time of King <hi>James.</hi> In Folio, price 5 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>59. The Reports of Judge <hi>Owen.</hi> In Folio, price 5 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>60. Reports of divers Reſolutions in Law, ariſing upon Caſes in the Court of Wards, and other Courts at <hi>Weſtminſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r,</hi> in the Reigns of the late King <hi>James</hi> and King <hi>Charles.</hi> By Sir <hi>James Ley</hi> Knight and Baroner In Folio, price 4 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>61. The Pleader, containing Preſidents and Forms of Declarations, Pleadings, Iſiues, Judgments, and Proceedings in all kinds of Actions, Real, Per<g ref="char:EOLhyphen"/>ſonal, and Mixt. Collected and publiſhed by <hi>Jo. H<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>.</hi> In Folio, price 16 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>62. The Statutes at large. By <hi>Ferdinando Pal<g ref="char:EOLhyphen"/>ton;</hi> and continued to the Year 1670, by <hi>T. Manby</hi> of <hi>L<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> I<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>.</hi> In Folio, price 50 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>63. A Collection of Entries, &amp;c. by <hi>W. Raſtall,</hi> 
+                     <abbr>Eſq</abbr> Newly amended, and much enlarged with many good Preſidents of late times, whereof divers are upon ſundry Statutes, and noted in the end of the Table. In Folio, price 3 <abbr>
+                        <hi>l.</hi>
+                     </abbr>
+                  </item>
+                  <item>64. A Book of Entries, containing Preſidents of Courts, Declarations, Informations, &amp;c. By Sir <hi>Ed<g ref="char:EOLhyphen"/>ward Coke,</hi> Knight. In Folio, price 3 <abbr>
+                        <hi>l.</hi>
+                     </abbr>
+                  </item>
+                  <item>65. <hi>Officium Vicecomitu<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>:</hi> the Office and Autho<g ref="char:EOLhyphen"/>rity of Sheriffs, gathered out of the Statutes and Books of the Common Laws of this Kingdom. Cor<g ref="char:EOLhyphen"/>rected and very much enlarged by <hi>M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ch. Dalton,</hi> 
+                     <abbr>Eſq</abbr> To which is added a Supplement, containing a Collection of the Statutes touching Sheriffs made ſince Mr. <hi>Daltons</hi> writing, which are in force at this day. In Folio, price 12 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>66. The Practical Counſellour in the Law touch<g ref="char:EOLhyphen"/>ing Fines, Common Recoveries, Judgments, and the execution thereof; Statutes, Recognizances, and Bargain and Sale. Collected out of the many great Volums of the Law. By <hi>W. S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eppard,</hi> 
+                     <abbr>Eſq</abbr> In Fo<g ref="char:EOLhyphen"/>lio, price 12 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>67. The twelveth and thirteenth Parts of the Lord <hi>Coke</hi>'s Reports. In Folio, price 7 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 6 <abbr>
+                        <hi>d.</hi>
+                     </abbr>
+                  </item>
+                  <item>68. <hi>B<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> J<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ialia.</hi> In Folio, price 10 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>69. <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>.</hi> In Folio, price 6 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>70. Actions on the Caſe for Slander. By <hi>W. S<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>p<g ref="char:EOLhyphen"/>pard.</hi> In Folio, price 6 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>71. <hi>La<gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                     </hi>'s Reports. In Folio, price 6 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>72. <hi>Pla<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ita Latire Reliviva.</hi> A Book of En<g ref="char:EOLhyphen"/>tries, containing perfect and approved Preſidents of Counts, Declarations, &amp;c. not heretofore publiſhed in Print. Collected out of the Manuſcripts of <hi>Ri<g ref="char:EOLhyphen"/>chard Brownlow, Jo. Gulſton, Rob. Moyl,</hi> and <hi>Thomas Cory,</hi> Eſquires; and digeſted into an exact method. by <hi>R. Aſton</hi> of <hi>Farnivals Inne.</hi> In Quarto, price 6 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>73 The Grand Abridgment of the Law continu<g ref="char:EOLhyphen"/>ed. By <hi>W. Hughes.</hi> In three Volums in Quarto, price 50 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>74. The Complete Clerk: containing Forms of all ſorts of Preſidents for Conveyances and Aſſu<g ref="char:EOLhyphen"/>rances; and other Inſtruments now in uſe and pra<g ref="char:EOLhyphen"/>ctice. The ſecond Edition, very much enlarged. In Quarto, price 12 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>75. A Treatiſe of Foreſt Laws. By <hi>Jo. Manwood.</hi> The third Edition, corrected and enlarged. In Quarto, price 6 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>76. An exact Book of Entries, of the moſt ſelect Judicial Writs uſed in the Common Law. By <hi>Ro<g ref="char:EOLhyphen"/>bert Moyle,</hi> 
+                     <abbr>Eſq</abbr> late one of the Prothonotaries of the Court of Kings Bench. In Quarto, price 3 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>77. An Abridgment of all the Statutes from <hi>Ma<g ref="char:EOLhyphen"/>gna Charta</hi> untill the Year 1670, By <hi>E. Wingate.</hi> In Octavo, price 6 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>78. The Terms of the Law, with Additions. In Octavo, price 4 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>79. The Principles of the Law reduced to pra<g ref="char:EOLhyphen"/>ctice. By <hi>Will. Phillips.</hi> In Twelves, price 1 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>80. The Parſons Guide, or the Law of Tithes much enlarged throughout the whole Book. By <hi>W. Sheppard,</hi> 
+                     <abbr>Eſq</abbr> In Twelves, price 1 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>81. The Complete Attorney: ſhewing the Office of an Attorney in the Courts of Kings Bench, Com<g ref="char:EOLhyphen"/>mon Pleas, and Pleas in the Exchequer, and the manner of their Proceedings; together with Inſtru<g ref="char:EOLhyphen"/>ctions for the Sollicitation of any Cauſe in Chancery, Exchequer Chamber, Dutchy Chamber, &amp;c. care<g ref="char:EOLhyphen"/>fully reviſed and enlarged. In Octavo, price 3 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>82. <hi>Littleton</hi>'s Tenures in French and Engliſh. In Twelves, price 2 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 6 <abbr>
+                        <hi>d.</hi>
+                     </abbr>
+                  </item>
+                  <item>83. <hi>Perkins</hi> of the Laws of <hi>England.</hi> In Octavo Engliſh, price 2 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>84. The Touchſtone of Wills, Teſtaments, and Adminiſtrations. Collected out of the Eccleſiaſtical, Civil, and Canon Laws; as alſo out of the Cuſtoms, Common Laws, and Statutes of this Kingdom. By <hi>Geo. Meriton.</hi> In Twelves, price 1 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 6 <abbr>
+                        <hi>d.</hi>
+                     </abbr>
+                  </item>
+                  <item>85. A Guide for Conſtables, Churchwardens, &amp;c. according to the ſeveral Additions and Alterations of the Law till the 22th. Year of His Majeſty's Reign. The third Edition. Collected by <hi>Geo. Meriton.</hi> In Twelves, price 1 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 6 <abbr>
+                        <hi>d.</hi>
+                     </abbr>
+                  </item>
+                  <item>86. Parſons Law: or a View of Avowſons. Where<g ref="char:EOLhyphen"/>in is contained the Rights of Patrons, Ordinaries, and Incumbents, to Advowſans, of Churches and Benefi<g ref="char:EOLhyphen"/>ces, with Cure of Souls, and other Spiritual Promoti<g ref="char:EOLhyphen"/>tions. The ſecond Edition, enlarged. By <hi>W. Hughes.</hi> In Octavo, price 2 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 6 <abbr>
+                        <hi>d.</hi>
+                     </abbr>
+                  </item>
+                  <item>87. The Juriſdiction of the Admiralty of <hi>England</hi> aſſerted againſt Sir <hi>Ed. C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>kes Articuli Admiralitatis</hi> in Chap. 22. of his Juriſdiction of Courts. By <hi>R. Zouch.</hi> In Octavo, price 1 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 6 <abbr>
+                        <hi>d.</hi>
+                     </abbr>
+                  </item>
+                  <item>88. The Grounds of the Laws of <hi>England.</hi> By <hi>M. Hawke.</hi> In Octavo, price 3 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 6 <abbr>
+                        <hi>d.</hi>
+                     </abbr>
+                  </item>
+                  <item>89. The Common Law epitomized. By <hi>W. G<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>ſon</hi> and <hi>A. Gulſon,</hi> Eſquires. In Octavo, price 3 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>90. The Ancient Legal Courſe and Fundamental Couſtitution of the Palace Court or Marſhalſea: to<g ref="char:EOLhyphen"/>gether with the ſeveral Charges of all Proceedings there. In Twelves, price 8 <abbr>
+                        <hi>d.</hi>
+                     </abbr>
+                  </item>
+                  <item>91. The Complete Juſtice: being an exact Colle<g ref="char:EOLhyphen"/>ction out of ſuch as have treated of the Office of Juſti<g ref="char:EOLhyphen"/>ces of the Peace. In Twelves, price 2 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>92. Juſtice reſtored: or a Guide for His Majeſty's Juſtices of the Peace, both in Seſſions and out of Seſſions. The ſecond Edition, enlarged. In Twelves, price 1 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>93. The Juſtice of the Peace his Clerks Cabinet: a Book of Preſidents or Warrants fitted and made ready to his hand, for every Caſe that may happen within the compaſs of his Maſters Office. By <hi>W. Sheppard,</hi> 
+                     <abbr>Eſq</abbr> In Octavo, price 1 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>94. A <hi>Vade mecum,</hi> or Table containing the ſub<g ref="char:EOLhyphen"/>ſtance of ſuch Statutes wherein any one or more Ju<g ref="char:EOLhyphen"/>ſtices of the Peace are enabled to act as well in as out of the Seſſions of the Peace. By <hi>W. Young,</hi> 
+                     <abbr>Eſq</abbr> In Twelves, price 1 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>95. A Catalogue of the Common and Statute Law Books of this Realm, and ſome others relating there<g ref="char:EOLhyphen"/>unto. Alphabetically digeſted under proper heads: with an Account of the beſt Editions, Volums, and Common prices they are now ſold at. In 12. pr. 1 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <pb facs="tcp:174791:3"/>
+                  <item>96. The Law of Conveyances. By <hi>Jo. Herne.</hi> In Octavo, price 2 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>97. An Abridgment of Sir <hi>Fra. More</hi>'s Reports. By <hi>W. Hughes,</hi> 
+                     <abbr>Eſq</abbr> In Octavo, price 2 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 6 <abbr>
+                        <hi>d.</hi>
+                     </abbr>
+                  </item>
+                  <item>98. <hi>Plowden</hi>'s <hi>Quaere's</hi> in Engliſh. In Octavo, price 2 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 6 <abbr>
+                        <hi>d.</hi>
+                     </abbr>
+                  </item>
+                  <item>99. An Abridgment of three Volums of Sir <hi>Geo. Crokes</hi> Reports. By <hi>W. Hughes.</hi> In Octavo, price 6 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>100. The Young Clerks Tutor: being a Collecti<g ref="char:EOLhyphen"/>on of the beſt Preſidents of Recognizances, Obligati<g ref="char:EOLhyphen"/>ons, Conditions, Acquittances, Bills of Sale, War<g ref="char:EOLhyphen"/>rants of Attorney, &amp;c. In Octavo, price 1 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 6 <abbr>
+                        <hi>d.</hi>
+                     </abbr>
+                  </item>
+                  <item>101. Land-Lords Law: A Collection of ſeveral Caſes in the Law concerning Leaſes, and the Cove<g ref="char:EOLhyphen"/>nants, Conditions, Grants, Proviſoes, Exceptions, Surrenders, &amp;c. of the ſame: and ſeveral other mat<g ref="char:EOLhyphen"/>ters which often come in debate between Land-Lord and Tenant. The third Edition. By <hi>Geo. Meriton,</hi> Gent. In Twelves, price 1 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 6 <abbr>
+                        <hi>d.</hi>
+                     </abbr>
+                  </item>
+                  <item>102. An Abridgment of the Doctor and Student. In Octavo, price 1 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>103. Reports or Cauſes in Chacery. Collected by Sir <hi>G. Cary.</hi> In Octavo, price 1 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 6 <abbr>
+                        <hi>d.</hi>
+                     </abbr>
+                  </item>
+                  <item>104. <hi>Formulae Benè placitandi.</hi> A Book of En<g ref="char:EOLhyphen"/>tries, containing variety of choice Preſidents of Counts, Declaration, Informations, Pleas in Bar and Abatement, Replications, Rejoynders, Iſſues, Verdicts, Judgments, Utlaries, and Avowries: and divers other Pleadings in Real, Perſonal, and Mixe Actions. Collected from the Manuſcripts as well of ſome of the late Learned Prothonotaries of the Court of Common Pleas, as of divers eminent Pra<g ref="char:EOLhyphen"/>ctiſers in the Court of Kings Bench. Never before extant in Print. Methodically digeſted under apt Titles, with an exact Table. By <hi>W.B.</hi> a Clerk of the Court of Common Pleas. In Folio, price 12 <abbr>
+                        <hi>s.</hi>
+                     </abbr> printed 1671.</item>
+                  <item>105. The Lord <hi>Dyer</hi>'s Reports: with a Table never before printed with it. In Folio, printed 1671.</item>
+                  <item>106. <hi>Cowels</hi> Interpreter. Corrected and very much enlarged. By <hi>Tho. Manley.</hi> In Folio, print<g ref="char:EOLhyphen"/>ed 1671.</item>
+                  <item>137. The Complete Sollicitor. Corrected and enlarged. In Octavo, price 3 <abbr>
+                        <hi>s.</hi>
+                     </abbr> Printed 1672.</item>
+               </list>
+            </div>
+            <div type="part">
+               <list>
+                  <head>Now in the Preſs.</head>
+                  <item>108. The Lord <hi>Coke</hi>'s Eleven Volums of Reports in French, with a Table never before printed with them. In Folio.</item>
+                  <item>109. A new Dictionary in Engliſh and Latine. By <hi>Thomas Holy-Oake.</hi> In Quarto.</item>
+               </list>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>R. Battersby</hi> for <hi>Thomas Baſſett,</hi> Bookſeller at the George near Cliffords Inne in Fleetſtreet. 1672.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
